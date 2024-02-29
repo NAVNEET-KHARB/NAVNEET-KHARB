@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NAVNEET-KHARB
 - 👀 I’m interested in ... music,coding,learning
-- 🌱 I’m currently learning ...c++,react,DS&A, Data Science etc.
-- languages I know - Javascript,C,(HTML & CSS), python.
+- 🌱 I’m currently learning ...backend,DS&A, Data Science etc.
+- languages I know - Javascript,C,(HTML & CSS), python, c++, ReactJS.
 - 📫 How to reach me ...navneetkharb11301@gmail.com,twitter(X)- https://twitter.com/NAVNEET__KHARB
 
 <!---
